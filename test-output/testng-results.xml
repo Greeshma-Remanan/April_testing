@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-28T16:24:02 IST" name="Default suite" finished-at="2026-09-28T16:24:28 IST" duration-ms="25600">
+    <groups>
+    </groups>
+    <test started-at="2026-09-28T16:24:02 IST" name="Default test" finished-at="2026-09-28T16:24:28 IST" duration-ms="25600">
+      <class name="Test.Test_class">
+        <test-method is-config="true" signature="start()[pri:0, instance:Test.Test_class@6989da5e]" started-at="2026-09-28T16:24:02 IST" name="start" finished-at="2026-09-28T16:24:22 IST" duration-ms="19950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="b_method()[pri:0, instance:Test.Test_class@6989da5e]" started-at="2026-09-28T16:24:22 IST" name="b_method" finished-at="2026-09-28T16:24:22 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+        <test-method signature="test1()[pri:0, instance:Test.Test_class@6989da5e]" started-at="2026-09-28T16:24:22 IST" name="test1" finished-at="2026-09-28T16:24:25 IST" duration-ms="2534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="b_method()[pri:0, instance:Test.Test_class@6989da5e]" started-at="2026-09-28T16:24:25 IST" name="b_method" finished-at="2026-09-28T16:24:25 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+        <test-method signature="test2()[pri:1, instance:Test.Test_class@6989da5e]" started-at="2026-09-28T16:24:25 IST" name="test2" finished-at="2026-09-28T16:24:26 IST" duration-ms="1419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="b_method()[pri:0, instance:Test.Test_class@6989da5e]" started-at="2026-09-28T16:24:26 IST" name="b_method" finished-at="2026-09-28T16:24:26 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+        <test-method signature="test3()[pri:2, instance:Test.Test_class@6989da5e]" started-at="2026-09-28T16:24:26 IST" name="test3" finished-at="2026-09-28T16:24:27 IST" duration-ms="1184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:Test.Test_class@6989da5e]" started-at="2026-09-28T16:24:27 IST" name="end" finished-at="2026-09-28T16:24:28 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Test.Test_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
